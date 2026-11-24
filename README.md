@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fariya Snigdha
 
-<!--
-**fariya-snigdha/fariya-snigdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WordPress Website Designer | Elementor | WooCommerce
 
-Here are some ideas to get you started:
+I design modern, responsive, and user-friendly websites that help businesses build a strong online presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Services
+- WordPress Website Design
+- Elementor Landing Page Design
+- WooCommerce eCommerce Websites
+- Website Redesign
+
+### Portfolio
+Website: https://wpwithsnigdha.com
+
+### Let's Work Together
+Available for freelance web design projects and collaborations.
